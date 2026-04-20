@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Proyecto: password-strength-classifier
+.idea/
+data/*.csv
+data/*.zip
+models/*.joblib
+results/*.png
+results/*.json
